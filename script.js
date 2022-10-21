@@ -34,7 +34,7 @@ $(document).ready(function() {
 
     // typing animate script
     var typed =new Typed(".typing",{
-        strings:["Python Developer","web Developer","Data analyser","Problem solver"],
+        strings:["Python Developer","Web Developer","WordPress Developer","Problem Solver"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
@@ -42,7 +42,7 @@ $(document).ready(function() {
 
 
     var typed =new Typed(".typing-2",{
-        strings:["Python Developer","web Developer","Data analyser","Problem solver"],
+        strings:["Python Developer","Web Developer","WordPress Developer","Problem solver"],
         typeSpeed:100,
         backSpeed:60,
         loop:true

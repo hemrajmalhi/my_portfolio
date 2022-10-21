@@ -374,6 +374,12 @@ background: #111;
 .skills .skills-content .right .python::before{
     width: 80%;
 }
+.skills .skills-content .right .php::before{
+    width: 80%;
+}
+.skills .skills-content .right .wordpress::before{
+    width: 80%;
+}
 
 .skills .skills-content .right .mysql::before{
     width: 70%;
